@@ -1,0 +1,3 @@
+module.exports = {
+  dbURI : YOUR_MONGO_DATABASE_CONNECT_URI_STRING
+}
